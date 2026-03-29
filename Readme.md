@@ -68,4 +68,5 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KummithaKavya&layout=compact&theme=radical&cache_seconds=1800)
 
+![GitHub Stats](https://stats.dooboo.io/api/github-stats-advanced?login=KummithaKavya)
 Thanks for visiting!
