@@ -59,23 +59,18 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haripalepu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Haripalepu&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haripalepu&theme=dark&hide_border=false&layout=compact" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KummithaKavya&show_icons=true&theme=radical)
 
----
+![GitHub Streak](https://streak-stats.demolab.com/?user=KummithaKavya&theme=radical)
 
-## 🐍 GitHub Contribution Snake
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KummithaKavya&layout=compact&theme=radical)
 
-<div align="center">
-  <img src="https://github.com/Haripalepu/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+<h2 align="center">📊 GitHub Stats</h2>
 
----
-
-Thanks for visiting!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KummithaKavya&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=KummithaKavya&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KummithaKavya&layout=compact&theme=radical" />
+</p>
