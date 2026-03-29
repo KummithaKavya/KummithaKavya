@@ -3,7 +3,7 @@
 🚀 DevOps • Cloud Engineer | AWS  | CI/CD | Kubernetes | Terraform 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/kavyakummitha/)
-[![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:kummithakavya@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-kummithakavya@gmail.com-red?logo=gmail&style=flat)](mailto:kummithakavya@gmail.com)
 
 ---
 
@@ -20,7 +20,7 @@
 - **SCM**: GitHub 
 - **IaC**: Terraform. Cloudformation  
 - **Containers**: Docker, Kubernetes 
-- ** Code Anaylsis**: SonarQube
+- **Code Anaylsis**: SonarQube
 - **Arifactory**: Nexus
 - **Build Tools**: Maven, NPM, PIP 
 - **Scripting**: Bash, Shell, Python  
